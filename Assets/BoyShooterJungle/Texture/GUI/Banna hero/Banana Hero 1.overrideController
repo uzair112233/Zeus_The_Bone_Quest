@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Banana Hero 1
+  m_Controller: {fileID: 9100000, guid: dea485aa66f5f0242a98e49c422570c8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e65ef9c81fb14714b9ac33db680db1cd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d21e4efe153ee5d43879ea7326cb17ae, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ee46c8381d753ed4f88d3277b4e85b11, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ff05f6bf82b539545a906ade4d26eeec, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4d042aa07191b2249b04c24fc7521226, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cf2a08e02442046478c7de72731a1e95, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 90440455018d0f747975d1aba7c17ee5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5a1885dde6bfb2142bcb746be7847e62, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 37d17d55ac6e7bd429768e10c854c297, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 196d45c1fde6cf8418f0ea57a5226326, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8f9510a88e4e4104fa482b04432dfd92, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0bbdd8a642f49c944bc293963c1d8ec7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6bb3515d27ef98c42ba33ecdf64875eb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d80e67c8a66648d419f7927637201617, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 808ac6f0f78e91840b4ba69ce7fbf480, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b644f813e57edae4dbaf7c121320fa2b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b304be030f14a6440b6aae31b7656d70, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ec5529092988efa4bb60933bc2500926, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 14b9f08eb90ea2742a36b771e2c4bde4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f9f192bfbcac6e2459ab1ee8e58b1c6d, type: 2}

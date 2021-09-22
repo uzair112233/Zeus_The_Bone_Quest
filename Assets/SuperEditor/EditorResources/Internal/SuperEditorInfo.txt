@@ -1,0 +1,5 @@
+name: SuperEditor
+identifier: SuperEditor_Identifier
+version: 1.5.0
+date: 6-23-2021
+changelog: Assets/SuperEditor/EditorResources/ChangeLog.txt
